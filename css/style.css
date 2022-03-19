@@ -1,0 +1,24 @@
+body{
+	color:red;
+	background-color:Azure;
+}
+
+a:link{
+	color:Blue;
+	text-decoration:none;
+}
+a:hover{
+	color:Red;
+	background-color:white;
+	text-decoration:underline;
+}
+a:active{
+	color:yellow;
+	background-color:transparent;
+}
+button{
+	border:2px solid GoldenRod;
+	color:white;
+	background-color:GoldenRod;
+	padding: 5px 10px
+}
